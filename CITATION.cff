@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository as a draft research program; no DOI or release version is recorded."
+title: "SOVRINT Emotional Physics"
+authors:
+  - family-names: Pietroniro
+    given-names: Katrina
+repository-code: "https://github.com/SOVRINT-OG/sovrint-emotional-physics"
+keywords:
+  - affective science
+  - research methods
+  - measurement
+  - systems modeling
